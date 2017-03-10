@@ -1,0 +1,110 @@
+.header {
+	height: 120px;
+	margin: auto;
+	width: 1200px;
+}
+.logo {
+	float: left;
+	width: 215px;
+	margin-top: 50px;
+}
+.logo img {
+	width: 215px;
+}
+.logo_txt {
+	float: left;
+	font-size: 20px;
+	margin-top: 45px;
+	line-height: 35px;
+	margin-left: 20px;
+	width: 370px;
+	padding-left: 15px;
+	border-left: 1px solid #eee;
+	color: #bbb;
+}
+.logo-right {
+	margin-left: 10px;
+	margin-top: 20px;
+	float: right;
+	width: 500ox;
+}
+.logo-right li {
+	text-align: center;
+	float: left;
+	width: 55px;
+	margin-right: 15px;
+	line-height: 30px;
+	color: #666;
+}
+.logo-right li a {
+	display: block; margin-top:3px;
+}
+.logo-right li:hover a {
+	color: #183884;
+}
+.logo-right li em {
+	display: block;
+	border-radius: 30px;
+	border: 1px solid #e5e5e5;
+	height: 52px;
+	width: 52px;
+}
+.logo-right li a:hover em {
+	border-radius: 30px;
+	border: 1px solid #e5e5e5;
+	height: 52px;
+	width: 52px;
+	transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+}
+.logo-right li.r1 em {
+	background: url(../images/tb1.png) no-repeat 13px 13px #fff;
+}
+.logo-right li.r1 a:hover em {
+	background: url(../images/tb1.png) no-repeat 13px -46px #183884;
+}
+.logo-right li.r2 em {
+	background: url(../images/tb1.png) no-repeat -57px 13px #fff;
+}
+.logo-right li.r2 a:hover em {
+	background: url(../images/tb1.png) no-repeat -57px -46px #183884;
+}
+.logo-right li.r1 em {
+	background: url(../images/tb1.png) no-repeat -128px 13px #fff;
+}
+.logo-right li.r1 a:hover em {
+	background: url(../images/tb1.png) no-repeat -128px -46px #183884;
+}
+.logo-right li.r3 em {
+	background: url(../images/tb1.png) no-repeat -198px 13px #fff;
+}
+.logo-right li.r3 a:hover em {
+	background: url(../images/tb1.png) no-repeat -198px -46px #183884;
+}
+.logo-right li.r2 em {
+	background: url(../images/tb1.png) no-repeat -270px 13px #fff;
+}
+.logo-right li.r2 a:hover em {
+	background: url(../images/tb1.png) no-repeat -270px -46px #183884;
+}
+.logo-right li.r4 em {
+	background: url(../images/tb1.png) no-repeat -340px 13px #fff;
+}
+.logo-right li.r4 a:hover em {
+	background: url(../images/tb1.png) no-repeat -340px -46px #183884;
+}
+.logo-right li.r2 em {
+	background: url(../images/tb1.png) no-repeat -410px 13px #fff;
+}
+.logo-right li.r2 a:hover em {
+	background: url(../images/tb1.png) no-repeat -410px -46px #183884;
+}
+.logo-right li.r5 em {
+	background: url(../images/tb1.png) no-repeat -480px 13px #fff;
+}
+.logo-right li.r5 a:hover em {
+	background: url(../images/tb1.png) no-repeat -480px -46px #183884;
+}

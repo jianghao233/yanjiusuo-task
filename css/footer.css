@@ -1,0 +1,62 @@
+.foot{
+	padding: 40px 0 40px 0;
+	background: #1f2228;
+	width: 100%;
+	min-width: 1200px;
+}
+.foot_con {
+	width: 1200px;
+	margin: auto;
+}
+.foot_ewm {
+	margin-left: 20px;
+	color: #ddd;
+	text-align: center;
+	line-height: 30px;
+	float: right;
+	width: 100px;
+}
+.foot .zxrx {
+	color: #fff;
+	width: 250px;
+}
+.foot .zxrx strong {
+	padding-bottom: 15px;
+	display: block;
+	font-size: 15px;
+	width: 250px;
+	line-height: 25px;
+}
+.tel {
+	float: right;
+	margin-right: 50px;
+}
+.tel p {
+	font-size: 14px;
+	color: #FFF;
+}
+.tel p a{
+	font-size: 14px;
+	color: #FFF;
+}
+.tel400 {
+	float: none;
+	text-align: center;
+	margin-top: 10px;
+}
+.tel400 img {
+	float: none;
+}
+.foot_lxwm {
+	margin-top: 0px;
+	color: #787f92;
+	float: left;
+	width: 250px;
+}
+.foot_lxwm p {
+	line-height: 24px;
+}
+.foot_lxwm p.tu img {
+	margin-right: 10px;
+	max-height: 25px;
+}

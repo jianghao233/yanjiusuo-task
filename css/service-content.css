@@ -1,0 +1,81 @@
+.content {
+	width: 1200px;
+	box-shadow: 1px 1px 10px #bbb;
+	padding: 10px ;
+	margin: 20px auto;
+}
+.list_con {
+	clear: both;
+	margin-top: 30px;
+}
+.list_con_title {
+	line-height: 40px;
+	border-bottom: 1px solid #ddd;
+}
+.list_con_title strong {
+	display: inline-block;
+	line-height: 41px;
+	border-bottom: 2px solid #183884;
+	font-size: 14px;
+	font-weight: normal;
+	color: #183884;
+}
+.list_con_title span {
+	color: #666;
+	float: right;
+}
+.list_con_title span a {
+	color: #666;
+	margin: 0 5px;
+}
+.list_con ul {
+	margin-top: 20px;
+	width: 1225px;
+}
+.list_con li {
+	width: 220px;
+	float: left;
+	margin-right: 25px;
+}
+.list_con li img {
+	width: 220px;
+	height: 220px;
+	border: 1px solid #e5e5e5;
+}
+.list_con .pic_txt {
+	text-align: center;
+	line-height: 40px;
+	font-size: 14px;
+	color: #666;
+}
+.list_con .pic_txt a {
+	color: #666;
+}
+.list_con .pic_txt a:hover {
+	color: #183884;
+}
+.article {
+	margin: 20px 0 30px 0;
+	font-size: 14px;
+	color: #555;
+	line-height: 36px;
+}
+.syp {
+	border-top: 1px dashed #e5e5e5;
+	padding-top: 20px;
+	line-height: 30px;
+	clear: both;
+	color: #183884;
+	font-size: 14px;
+}
+.syp a {
+	color: #333;
+}
+.syp a:hover {
+	color: #183884;
+}
+.syp strong {
+	color: #183884;
+	font-size: 14px;
+	margin-right: 10px;
+}

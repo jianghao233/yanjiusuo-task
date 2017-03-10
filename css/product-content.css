@@ -1,0 +1,105 @@
+.case_con {
+	overflow: hidden;
+	width: 1200px;
+	margin: auto;
+	clear: both;
+	margin-top: 20px;
+}
+.case_con ul {
+	width: 1320px;
+}
+.case_con li {
+	box-shadow: 2px 2px 10px #e5e5e5;
+	border: 1px solid #e5e5e5;
+	border-radius: 5px;
+	margin-right: 20px;
+	padding: 10px 10px 10px 10px;
+	background: #fff;
+	margin-bottom: 30px;
+	position: relative;
+	width: 364px;
+	overflow: hidden;
+	float: left;
+}
+.case_con li:hover {
+	box-shadow: 2px 2px 10px #ccc;
+}
+.case_con li img {
+	width: 365px;
+	height: 220px;
+}
+.case_con li p {
+	display: block;
+	line-height: 20px;
+	color: #555;
+	font-size: 12px;
+	margin-top: 8px;
+}
+.case_con li p a {
+	color: #333;
+}
+.case_con li .pic_txt {
+	
+	color: #555;
+	width: 100%;
+	float: left;
+}
+.case_con li .pic_txt strong {
+	width: 200px;
+}
+.case_con li .pic_txt strong a {
+	display: block;
+	margin: 0 10px;
+	line-height: 45px;
+	color: #555;
+	font-size: 14px;
+}
+.case_con li:hover .pic_txt strong a {
+	color: #183884;
+}
+.biaoti {
+	width: 360px;
+}
+.case_con li .pic_txtcp {
+	color: #555;
+	width: 200px;
+	float: left;
+}
+.case_con li .lejie {
+	color: #555;
+	width: 100px;
+	float: right;
+}
+.case_con li .lejie a {
+	display: block;
+	margin: 0 10px;
+	line-height: 45px;
+	color: #555;
+	font-size: 12px;
+	color: #333;
+}
+.case_con li .pic_txtcp strong a {
+	display: block;
+	margin: 0 10px;
+	line-height: 45px;
+	color: #555;
+	font-size: 14px;
+}
+.case_con li:hover .pic_txtcp strong a {
+	color: #183884;
+}
+.case_con li .pic_txthy {
+	color: #555;
+	width: 100%;
+	float: left;
+}
+.case_con li .pic_txthy strong a {
+	display: block;
+	margin: 0 10px;
+	line-height: 45px;
+	color: #555;
+	font-size: 14px;
+}
+.case_con li:hover .pic_txthy strong a {
+	color: #183884;
+}s
